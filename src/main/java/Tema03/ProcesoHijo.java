@@ -12,8 +12,8 @@ public class ProcesoHijo {
             inicio = Integer.parseInt("0");
             fin = Integer.parseInt("0");
         } else {
-            inicio = Integer.parseInt("0");
-            fin = Integer.parseInt("0");
+            inicio = Integer.parseInt(args[0]);
+            fin = Integer.parseInt(args[1]);
         }
         
         ProcesoHijo ph = new ProcesoHijo();
