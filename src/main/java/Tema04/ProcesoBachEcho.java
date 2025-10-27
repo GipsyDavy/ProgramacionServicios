@@ -8,6 +8,6 @@ package Tema04;
  *
  * @author Gipsy Dávy
  */
-public class NewClass {
+public class ProcesoBachEcho {
     
 }
